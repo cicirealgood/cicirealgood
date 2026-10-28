@@ -1,72 +1,67 @@
 <!--
-  ✨ Profil GitHub: cicirealgood
-  Tips: ganti nama "cicirealgood" dengan nama asli Anda jika mau,
-  cukup ubah teks di bawah judul capsule-render teratas.
+  Profil GitHub: cicirealgood
+  Ganti "cicirealgood" dengan nama asli Anda di banner bawah jika mau.
 -->
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Halo%2C%20Saya%20cicirealgood&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Pelajar%20IT%20%C2%B7%20Selalu%20Belajar%20Hal%20Baru&descSize=16&descAlignY=65&descAlignX=50"
-    alt="Banner profil" width="100%"
-  />
-</div>
 
-<div align="center">
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,1:06B6D4&height=200&section=header&text=Halo%2C%20Saya%20cicirealgood&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Pelajar%20IT%20%C2%B7%20Selalu%20Belajar%2C%20Selalu%20Tumbuh&descSize=16&descAlignY=55&animation=fadeIn"
+  alt="banner" width="100%"
+/>
+
+<a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Belajar%20Hal%20Baru%20Setiap%20Hari%20%F0%9F%93%9A;Cintai%20Prosesnya%2C%20Nikmati%20Hasilnya%20%F0%9F%8C%B1;Code%20%26%20Kopi%20%E2%98%95"
-    alt="Animasi ketik"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&width=520&height=60&lines=Belajar+Hal+Baru+Setiap+Hari+%F0%9F%93%9A;Cintai+Prosesnya%2C+Nikmati+Hasilnya+%F0%9F%8C%B1;Code+%26+Kopi+%E2%98%95"
+    alt="animasi ketik"
   />
+</a>
+
+### 🚀 Pembelajar hari ini, pembangun hari esok
+
+[![Pengunjung Profil](https://komarev.com/ghpvc/?username=cicirealgood&style=flat-square&color=7C3AED&label=Pengunjung+Profil)](https://github.com/cicirealgood)
+[![Follow](https://img.shields.io/github/followers/cicirealgood?style=flat-square&color=06B6D4&label=Followers)](https://github.com/cicirealgood?tab=followers)
+[![Bintang](https://img.shields.io/github/stars/cicirealgood?style=flat-square&color=F59E0B&label=Stars)](https://github.com/cicirealgood?tab=stars)
+
 </div>
 
 ## 👨‍💻 Tentang Saya
 
 - 🔭 Sedang fokus belajar pengembangan web, frontend & backend
-- 🌱 Saat ini mendalami **JavaScript / TypeScript**, **PHP**, dan **Python**
-- 💬 Bisa tanya saya soal dasar-dasar pemrograman web
-- 🎯 Tujuan: menjadi developer yang menulis kode bersih, rapi, dan bermanfaat
+- 🌱 Mendalami **JavaScript / TypeScript**, **PHP**, dan **Python**
+- 💬 Tanya saya soal dasar-dasar pemrograman web
+- 🎯 Tujuan: developer yang menulis kode bersih, rapi, dan bermanfaat
 - ⚡ Prinsip: proses lebih penting daripada hasil instan
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-**Bahasa Pemrograman**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,py,html,css,mysql,git,github,vscode&theme=dark" alt="teknologi" />
+</a>
 
 </div>
 
-## 📊 Statistik GitHub
+## 📊 Statistik & Aktivitas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cicirealgood&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Statistik GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicirealgood&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Bahasa terpopuler" />
+<img src="https://github-readme-stats.vercel.app/api?username=cicirealgood&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4B5FD&icon_color=22D3EE&text_color=9CA3AF" height="160" alt="statistik" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicirealgood&layout=compact&hide_border=true&bg_color=00000000&title_color=C4B5FD&text_color=9CA3AF" height="160" alt="bahasa" />
 
-<img src="https://streak-stats.demolab.com?user=cicirealgood&locale=id&theme=tokyonight&hide_border=true" height="160" alt="Streak kontribusi" />
+<img src="https://streak-stats.demolab.com?user=cicirealgood&locale=id&hide_border=true&background=00000000&color=9CA3AF&currStreakLabel=22D3EE&sideLabels=C4B5FD" height="160" alt="streak" />
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=cicirealgood&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"
-  alt="Piala pencapaian"
-/>
+</div>
+
+## 🐍 Ular Kontribusi
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cicirealgood/cicirealgood/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/cicirealgood/cicirealgood/output/github-contribution-grid-snake.svg" alt="animasi ular kontribusi" width="100%" />
+</picture>
 
 </div>
 
@@ -78,18 +73,13 @@
   <img src="https://img.shields.io/badge/GitHub-cicirealgood-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<img
-  src="https://komarev.com/ghpvc/?username=cicirealgood&style=flat-square&color=58a6ff&label=Pengunjung+Profil"
-  alt="Pengunjung profil"
-/>
-
 </div>
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"
-  alt="Footer" width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,1:7C3AED&height=110&section=footer"
+  alt="footer" width="100%"
 />
 
 </div>
