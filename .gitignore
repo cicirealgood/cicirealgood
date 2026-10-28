@@ -1,0 +1,102 @@
+# ============================================================
+#  Rahasia & Environment — JANGAN PERNAH di-commit & push!
+# ============================================================
+.env
+.env.*
+!.env.example
+*.local
+
+# Kredensial, kunci, sertifikat
+credentials.json
+secrets.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+id_rsa*
+id_ed25519
+
+# ============================================================
+#  Node.js / JavaScript / TypeScript
+# ============================================================
+node_modules/
+dist/
+build/
+out/
+.npm
+.parcel-cache/
+.vercel/
+.next/
+.nuxt/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.eslintcache
+
+# ============================================================
+#  Python
+# ============================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.Python
+pip-log.txt
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter notebook checkpoint
+.ipynb_checkpoints/
+
+# ============================================================
+#  PHP / Composer
+# ============================================================
+/vendor/
+composer.phar
+.phpunit.result.cache
+storage/*.key
+
+# ============================================================
+#  Database & file data besar
+# ============================================================
+*.sqlite
+*.sqlite3
+*.db
+*.sql.gz
+*.dump
+
+# ============================================================
+#  Log, cache, file sementara & upload
+# ============================================================
+logs/
+*.log
+tmp/
+temp/
+uploads/
+.cache/
+
+# ============================================================
+#  IDE & Editor
+# ============================================================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*.sln
+*.suo
+
+# ============================================================
+#  Sistem Operasi
+# ============================================================
+.DS_Store
+Thumbs.db
+desktop.ini
